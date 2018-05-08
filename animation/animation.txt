@@ -1,0 +1,4 @@
+引入animation.min.css 其中有众多的css类名样式
+document.querySelector("input[type=button]").onclick = function(){
+	document.querySelector("div").classList.add("swing");
+}
